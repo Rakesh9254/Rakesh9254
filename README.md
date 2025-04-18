@@ -17,7 +17,7 @@ To leverage my expertise in **software testing**, **automation (Selenium/Java)**
 - **Programming:** Core Java, SQL  
 - **Frameworks:** Page Object Model (POM), Maven  
 - **Databases:** MySQL, DML/DDL/DCL  
-- **Tools:** Git/GitHub, Eclipse IDE  
+- **Tools:** Git/GitHub, Eclipse IDE, IntelliJ IDEA 
 
 ---
 
