@@ -39,7 +39,7 @@ To leverage my expertise in **software testing**, **automation (Selenium/Java)**
 ### **Projects**  
 #### [E-commerce Test Automation](https://github.com/Rakesh9254/Selenium)  
 - **Tech Stack:** Selenium, Java, TestNG  
-- Automated test scripts for login, cart, and checkout workflows.  
+- Automated Test Scripts for login, Cart, and Checkout Workflows.  
 - Integrated with CI/CD pipelines using Maven.  
 
 #### [Database Query Analyzer](https://github.com/Rakesh9254/your-project-repo)  
