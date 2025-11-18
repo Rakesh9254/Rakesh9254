@@ -1,7 +1,7 @@
 # RAKESH KUMAR ROSHAN  
 ## Software Tester | Automation Engineer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rakesh9254/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh9254/)
 📧 rakeshkumarroshan62@gmail.com  
 📱 +91 7631744096  
 
