@@ -54,7 +54,7 @@ Currently transitioning from Java-based automation to **Python** to broaden my t
 ## 🎓 Education
 
 * **Master of Computer Applications (MCA)**  
-  Jain University, Bengaluru | 2021–2023 | 79%
+  Jain University, Bengaluru | 2022–2024 | 79%
 
 * **Bachelor of Computer Applications (BCA)**  
   Choudhary Charan Singh University, Meerut | 2016–2019 | 61%
