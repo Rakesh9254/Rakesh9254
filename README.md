@@ -97,19 +97,21 @@ Currently transitioning from Java-based automation to **Python** to broaden my t
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh9254&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh9254&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh9254&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh9254&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakesh9254&theme=radical&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rakesh9254&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Master Python fundamentals and OOP concepts
 - [ ] Build 5+ Python automation projects
@@ -120,13 +122,33 @@ Currently transitioning from Java-based automation to **Python** to broaden my t
 
 ---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9254&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh9254/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imrakesh9254)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yaduvanshi005/?hl=en)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rakesh9254.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshkumarroshan62@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakesh9254/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/imrakesh9254">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/yaduvanshi005/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://rakesh9254.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:rakeshkumarroshan62@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -134,12 +156,30 @@ Currently transitioning from Java-based automation to **Python** to broaden my t
 
 ### 💡 "Quality is not an act, it is a habit." - Aristotle
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rakesh9254&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Rakesh9254&color=brightgreen&style=flat-square&label=Profile+Views)
+
+**⭐ Star my repositories if you find them useful!**
 
 </div>
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Popular Repositories
 
-Check out my pinned repositories below to see my latest work in test automation and Python learning! 👇
+<p align="center">
+  <a href="https://github.com/Rakesh9254/Selenium">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9254&repo=Selenium&theme=dark&hide_border=true" alt="Selenium" />
+  </a>
+  <a href="https://github.com/Rakesh9254/AutomationSelenium">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9254&repo=AutomationSelenium&theme=dark&hide_border=true" alt="AutomationSelenium" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rakesh9254/30DaysChallenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9254&repo=30DaysChallenge&theme=dark&hide_border=true" alt="30DaysChallenge" />
+  </a>
+  <a href="https://github.com/Rakesh9254/JavaSDET">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9254&repo=JavaSDET&theme=dark&hide_border=true" alt="JavaSDET" />
+  </a>
+</p>
