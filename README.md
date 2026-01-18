@@ -1,6 +1,6 @@
 # RAKESH KUMAR ROSHAN
 
-## QA Engineer | Automation Specialist | Python Learner 🐍
+## QA Engineer | Automation tester | Python Learner 🐍
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh9254/)
 [![GitHub followers](https://img.shields.io/github/followers/Rakesh9254?label=Follow&style=social)](https://github.com/Rakesh9254)
